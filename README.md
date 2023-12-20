@@ -1,8 +1,8 @@
-# React Recipe Box Coding Challenge
+# React Recipe List Coding Challenge
 
 ## Objective
 
-Build a Recipe Box application using React that allows users to manage a collection of recipes. The application should have features for displaying a list of recipes, adding new recipes, and viewing individual recipe details.
+Build a Recipe List application using React that allows users to manage a collection of recipes. The application should have features for displaying a list of recipes, adding new recipes, and viewing individual recipe details.
 
 ## Requirements
 
