@@ -11,14 +11,14 @@ Build a Recipe List application using React that allows users to manage a collec
 - Each recipe should include a title, and a preview image.
 - Implement a responsive grid layout for the recipe cards.
 
-[comment]: <>![image](https://github.com/paulocloudace/coding-challenge/assets/152491774/170c10d8-446a-49f5-b02c-1bf5f2292f6f)
+[comment]: <>(![image](https://github.com/paulocloudace/coding-challenge/assets/152491774/170c10d8-446a-49f5-b02c-1bf5f2292f6f))
 
 ### 2. Add New Recipe
 - Provide a button to add a new recipe.
 - When clicked, a modal/form should appear with fields for entering the title, ingredients, instructions, and an optional image URL.
 - Upon submission, the new recipe should be added to the list.
 
-[comment]: <>![image](https://github.com/paulocloudace/coding-challenge/assets/152491774/9ce13e12-997a-4eae-962c-200f4e8f5662)
+[comment]: <>(![image](https://github.com/paulocloudace/coding-challenge/assets/152491774/9ce13e12-997a-4eae-962c-200f4e8f5662))
 
 
 ### 3. View Individual Recipe Details
@@ -26,7 +26,7 @@ Build a Recipe List application using React that allows users to manage a collec
 - Show the title, ingredients, instructions, and an optional image in the modal.
 - Include a button to close the modal.
 
-[comment]: <>![image](https://github.com/paulocloudace/coding-challenge/assets/152491774/5e4a6124-0d04-4048-a0f1-0ad7dca0341e)
+[comment]: <>(![image](https://github.com/paulocloudace/coding-challenge/assets/152491774/5e4a6124-0d04-4048-a0f1-0ad7dca0341e))
 
 
 ### 4. Styling
